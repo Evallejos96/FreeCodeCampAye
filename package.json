@@ -1,6 +1,6 @@
 {
   "name": "fcc-learn-npm-package-json",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "Proyecto de FreeCodeCamp para practicar el manejo de package.json y dependencias.",
   "keywords": [
     "freecodecamp",
@@ -21,3 +21,4 @@
   },
   "author": "Ayelen Villalba"
 }
+
