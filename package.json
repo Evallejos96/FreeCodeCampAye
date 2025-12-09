@@ -1,16 +1,17 @@
 {
-	"name": "fcc-learn-npm-package-json",
-	"version": "1.0.0",
-	"dependencies": {
-		"express": "^4.14.0"
-	},
-	"main": "server.js",
-	"scripts": {
-		"start": "node server.js"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
-	},
-	"author": "Ayelen Villalba"
+  "name": "fcc-learn-npm-package-json",
+  "version": "1.0.0",
+  "description": "Proyecto de FreeCodeCamp para practicar el manejo de package.json y dependencias.",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
+  },
+  "author": "Ayelen Villalba"
 }
